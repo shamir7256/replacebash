@@ -2,4 +2,6 @@ cd
 
 cd /projects/krowd
 
-code .
+ls
+
+exit

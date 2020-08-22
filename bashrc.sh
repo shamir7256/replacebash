@@ -1,7 +1,7 @@
 cd 
 
 ls
-
+echo "hola"
 cd projects/krowd
 
 code .

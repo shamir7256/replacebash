@@ -1,7 +1,5 @@
 cd 
 
-cd /projects/krowd
+cd projects/krowd
 
-ls
-
-exit
+code .
